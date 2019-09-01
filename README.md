@@ -1,2 +1,6 @@
 # hello-world
 my first repository
+Hi Humans!
+Glad to be here...
+I am currently learning data science and sharpening my coding skills.
+I like Python and sql...
